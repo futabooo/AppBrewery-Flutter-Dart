@@ -7,9 +7,12 @@ void main() => runApp(MaterialApp(
           title: Text('I Am Poor'),
           backgroundColor: Colors.purple[900],
         ),
-        body: Center(
-          child: Image(
-            image: AssetImage('images/planet.jpg'),
+        body: Container(
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: AssetImage('images/planet.jpg'),
+              fit: BoxFit.cover,
+            ),
           ),
         ),
       ),
