@@ -5,8 +5,8 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "dicee-flutter-master",
-            "cwd": "dicee-flutter-master",
+            "name": "dicee",
+            "cwd": "dicee",
             "request": "launch",
             "type": "dart"
         },
@@ -17,8 +17,8 @@
             "type": "dart"
         },
         {
-            "name": "mi_card_flutter-master",
-            "cwd": "mi_card_flutter-master",
+            "name": "mi_card",
+            "cwd": "mi_card",
             "request": "launch",
             "type": "dart"
         }
