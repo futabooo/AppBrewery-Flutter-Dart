@@ -27,6 +27,12 @@
             "cwd": "magic-8-ball",
             "request": "launch",
             "type": "dart"
+        },
+        {
+            "name": "xylophone",
+            "cwd": "xylophone",
+            "request": "launch",
+            "type": "dart"
         }
     ]
 }
