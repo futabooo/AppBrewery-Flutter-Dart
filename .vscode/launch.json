@@ -21,6 +21,12 @@
             "cwd": "mi_card",
             "request": "launch",
             "type": "dart"
+        },
+        {
+            "name": "magic-8-ball",
+            "cwd": "magic-8-ball",
+            "request": "launch",
+            "type": "dart"
         }
     ]
 }
